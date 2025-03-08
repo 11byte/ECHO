@@ -1,2 +1,2 @@
 # E.C.H.O
-E.C.H.O – Evaluating Calls for Holistic Optimization
+<i>Evaluating Calls for Holistic Optimization </i>
