@@ -1,0 +1,141 @@
+transcribed_sentence,timestamp,speaker,pitch,tone,pace,cuss words,response time
+" Hello future, hello future, hello ma'am, hello good morning, welcome to S.J. Holidays.",0:00:00 - 0:00:12,Unknown,224.20899706591558,POSITIVE,1.076158940397351,None,0.0
+ How can I help you?,0:00:12 - 0:00:13,Speaker SPEAKER_00,236.32372163013986,NEGATIVE,5.0,None,0.0
+ I'm planning for a trip with my husband.,0:00:13 - 0:00:17,Unknown,216.85282415432872,POSITIVE,1.9999999999999991,None,0.0
+ Okay.,0:00:17 - 0:00:18,Unknown,,POSITIVE,1.0,None,0.0
+ So can you give me some suggestions to plan the trip?,0:00:18 - 0:00:22,Unknown,219.95178509991388,NEGATIVE,2.272727272727273,None,0.0
+ Can you guide me?,0:00:22 - 0:00:24,Speaker SPEAKER_00,200.95627919682357,POSITIVE,2.0,None,0.0
+" Yes, of course, but I need some information first.",0:00:24 - 0:00:29,Unknown,217.4498657083561,NEGATIVE,2.0454545454545463,None,0.0
+ How many days trip you have planned?,0:00:29 - 0:00:32,Speaker SPEAKER_00,248.9139767891829,NEGATIVE,2.1874999999999982,None,0.0
+ I'm planning to go for three days.,0:00:32 - 0:00:35,Speaker SPEAKER_00,213.31012824985942,NEGATIVE,2.0588235294117654,None,0.0
+" Three days, okay.",0:00:35 - 0:00:37,Speaker SPEAKER_00,210.8647951068383,POSITIVE,1.8292682926829262,None,0.0
+ What type of place you like to go?,0:00:37 - 0:00:40,Speaker SPEAKER_00,255.86490753035852,POSITIVE,2.7027027027027017,None,0.0
+" I'm talking about climate, especially.",0:00:40 - 0:00:45,Speaker SPEAKER_00,223.67692832257592,POSITIVE,1.008064516129032,None,0.0
+" I need a cool climate, not very hot.",0:00:45 - 0:00:48,Speaker SPEAKER_00,223.1751325160431,NEGATIVE,2.4691358024691397,None,0.0
+ Okay.,0:00:48 - 0:00:49,Unknown,207.32041872578975,POSITIVE,1.0,None,0.0
+ Then I suggest you go to a YNAD that there's beautiful places in Kerala.,0:00:49 - 0:00:55,Speaker SPEAKER_00,228.8463130328766,POSITIVE,2.258064516129031,None,0.0
+ It's a chill climate.,0:00:55 - 0:00:58,Speaker SPEAKER_00,221.56921751498524,NEGATIVE,1.388888888888891,None,0.0
+ You hear about that place?,0:00:58 - 0:01:00,Speaker SPEAKER_00,271.7688496157745,POSITIVE,2.5,None,0.0
+" Yeah, I have heard and I'm sure that it is near to Bangalore.",0:01:00 - 0:01:05,Unknown,238.14207023466759,POSITIVE,2.754237288135594,None,0.0
+" Kerala, I don't know.",0:01:05 - 0:01:07,Speaker SPEAKER_00,203.8459789354536,NEGATIVE,2.0,None,0.0
+" Yeah, it's Kerala only.",0:01:07 - 0:01:10,Unknown,203.3058499448863,POSITIVE,1.1904761904761907,None,0.0
+" Okay, okay.",0:01:10 - 0:01:12,Unknown,173.60047654132757,POSITIVE,1.3513513513513478,None,0.0
+" So can you say me how to go there, will you arrange any travels or how your holidays",0:01:12 - 0:01:20,Unknown,222.01748006553862,POSITIVE,2.142857142857145,None,0.0
+ is working?,0:01:20 - 0:01:21,Speaker SPEAKER_00,239.3374927793347,NEGATIVE,2.0,None,0.0
+ How?,0:01:21 - 0:01:22,Speaker SPEAKER_00,204.90179244446512,NEGATIVE,1.0,None,0.0
+" Yeah, yes ma'am.",0:01:22 - 0:01:24,Unknown,277.2588887449013,POSITIVE,1.6304347826086927,None,0.0
+" We have three packages, two days package and four days package and one days package.",0:01:24 - 0:01:33,Speaker SPEAKER_00,222.58263260470835,POSITIVE,1.6741071428571415,None,0.0
+ Which one you want?,0:01:33 - 0:01:36,Speaker SPEAKER_00,207.85235463817588,NEGATIVE,1.219512195121956,None,0.0
+ I prefer four days package.,0:01:36 - 0:01:39,Unknown,246.8577633181865,POSITIVE,2.0161290322580614,None,0.0
+ Four days package.,0:01:39 - 0:01:40,Speaker SPEAKER_00,225.60882348053624,POSITIVE,1.8292682926829262,None,0.0
+ Then you don't worry.,0:01:40 - 0:01:42,Speaker SPEAKER_00,246.49798985385675,POSITIVE,2.040816326530619,None,0.0
+" Our agency will help you, okay.",0:01:42 - 0:01:45,Speaker SPEAKER_00,242.22865994638147,POSITIVE,2.727272727272724,None,0.0
+ They will guide you and they will book the hotels and what are the tourist places or,0:01:45 - 0:01:52,Speaker SPEAKER_00,219.79050880977684,POSITIVE,2.1683673469387745,None,0.0
+ there in the YNAD.,0:01:52 - 0:01:55,Speaker SPEAKER_00,212.21844106584834,POSITIVE,1.6949152542372885,None,0.0
+ They will explain to you.,0:01:55 - 0:01:57,Speaker SPEAKER_00,205.68459804803098,POSITIVE,2.1929824561403497,None,0.0
+ Okay.,0:01:57 - 0:01:58,Unknown,,POSITIVE,1.0,None,0.0
+" Now can you give me some explanation on how the trip will be, what are the sightseeing",0:01:58 - 0:02:03,Speaker SPEAKER_00,220.49376263456602,POSITIVE,3.4552845528455274,None,0.0
+ there?,0:02:03 - 0:02:04,Speaker SPEAKER_00,167.00290987545176,NEGATIVE,1.0,None,0.0
+" Yeah, of course.",0:02:04 - 0:02:08,Unknown,200.18672047884783,POSITIVE,0.7009345794392545,None,0.0
+ There are more sight visiting places or there.,0:02:08 - 0:02:13,Speaker SPEAKER_00,224.5015079683102,POSITIVE,1.5873015873015808,None,0.0
+ One is a zip line.,0:02:13 - 0:02:15,Speaker SPEAKER_00,207.09682309040093,NEGATIVE,3.2894736842105656,None,0.0
+ It's the longest zip line placed in Kerala only.,0:02:15 - 0:02:20,Speaker SPEAKER_00,212.20061753027116,NEGATIVE,1.6544117647058831,None,0.0
+ And then one trekking place is there.,0:02:20 - 0:02:24,Speaker SPEAKER_00,222.62956624287372,POSITIVE,2.134146341463414,None,2.842170943040401e-14
+ Another one is waterfalls.,0:02:24 - 0:02:27,Unknown,218.11630943538458,POSITIVE,1.1904761904761958,None,0.0
+" Main, Sushipara waterfalls is there.",0:02:27 - 0:02:30,Speaker SPEAKER_00,219.03057196934682,POSITIVE,1.6891891891891846,None,0.0
+ It's a really very chill place.,0:02:30 - 0:02:36,Speaker SPEAKER_00,219.0913394473829,NEGATIVE,1.0204081632653068,None,0.0
+ In that place you should walk for nearly two to three kilometers.,0:02:36 - 0:02:44,Speaker SPEAKER_00,231.61241196285414,NEGATIVE,1.5306122448979584,None,0.0
+ Okay.,0:02:44 - 0:02:45,Speaker SPEAKER_00,251.98594609529886,POSITIVE,1.0,None,0.0
+ So I have to walk two to three kilometers to reach the Sushipara Falls.,0:02:45 - 0:02:47,Speaker SPEAKER_00,227.29782817161833,NEGATIVE,5.384615384615338,None,0.0
+ Reach that?,0:02:47 - 0:02:48,Speaker SPEAKER_00,262.12598823109477,NEGATIVE,2.0,None,0.0
+" Yes, yes, yes.",0:02:48 - 0:02:49,Speaker SPEAKER_00,175.74596746591587,POSITIVE,3.0,None,0.0
+ So there is no vehicles.,0:02:49 - 0:02:51,Speaker SPEAKER_00,258.7779927176072,NEGATIVE,3.205128205128259,None,0.07999999999998408
+ Only the way of more distance.,0:02:51 - 0:02:53,Speaker SPEAKER_00,223.1105604247584,NEGATIVE,2.459016393442597,None,0.0
+ Only the way you walk only because the stones and the part is very narrow.,0:02:53 - 0:03:00,Speaker SPEAKER_00,227.58253967719477,NEGATIVE,2.094972067039107,None,0.0
+ So vehicles are not allowed in that place.,0:03:00 - 0:03:05,Speaker SPEAKER_00,227.8698621472287,NEGATIVE,1.8348623853211072,None,0.0
+ You should walk.,0:03:05 - 0:03:06,Speaker SPEAKER_00,243.27823381844453,POSITIVE,3.0,None,0.0
+" But it's very, really is a good perfect place to go with the husband.",0:03:06 - 0:03:14,Speaker SPEAKER_00,231.99382013277835,POSITIVE,1.690821256038647,None,0.0
+ You have to share your memories and they're walking is a very good thing.,0:03:14 - 0:03:19,Speaker SPEAKER_00,204.27682061613595,POSITIVE,3.1818181818181777,None,0.0
+" Yeah, yeah, yeah.",0:03:20 - 0:03:21,Unknown,164.59343562348928,POSITIVE,1.8750000000000067,None,1.0
+" Okay, then how about the accommodation?",0:03:21 - 0:03:24,Unknown,244.96996075451764,NEGATIVE,2.307692307692313,None,0.0
+ You will arrange the accommodation or we have to take care of it.,0:03:24 - 0:03:28,Speaker SPEAKER_00,228.08383818014323,NEGATIVE,2.9545454545454506,None,0.0
+" No, no, we will arrange the accommodations.",0:03:28 - 0:03:31,Unknown,229.06311978121647,NEGATIVE,2.49999999999999,None,0.0
+" Okay, the packages will completely the accommodations and some two, two team parks.",0:03:31 - 0:03:38,Speaker SPEAKER_00,234.95899622270935,POSITIVE,1.7473118279569897,None,0.0
+ Not team parks is a zip line and also trekking.,0:03:38 - 0:03:43,Unknown,225.13167683342726,NEGATIVE,2.2935779816513837,None,0.0
+" Okay, we will arrange.",0:03:43 - 0:03:45,Unknown,211.22472116833043,POSITIVE,1.8867924528301847,None,0.0
+ Okay.,0:03:45 - 0:03:46,Speaker SPEAKER_00,288.54797210925574,POSITIVE,1.0,None,0.0
+ Only zip line and trekking you will arrange or some other sites in also.,0:03:46 - 0:03:50,Speaker SPEAKER_00,230.6087883455228,NEGATIVE,3.240740740740746,None,0.0
+" Yeah, some others if you want some other places, we will arrange that also.",0:03:50 - 0:03:55,Speaker SPEAKER_00,256.09487557419783,POSITIVE,2.8925619834710723,None,0.0
+" Okay, how many sites in is possible to cover in four days?",0:03:55 - 0:04:00,Speaker SPEAKER_00,225.94410060106043,NEGATIVE,2.479338842975205,None,0.0
+" In four days in one day, you will cover three places.",0:04:00 - 0:04:05,Unknown,253.81733993708437,POSITIVE,2.182539682539686,None,0.0
+" Yeah, one day you will cover the zip line, waterfalls and trekking.",0:04:05 - 0:04:12,Speaker SPEAKER_00,233.25119748959028,POSITIVE,1.6666666666666627,None,0.0
+" The next day, we have to plan in other places in why not voting.",0:04:12 - 0:04:19,Speaker SPEAKER_00,232.00222792162134,NEGATIVE,2.0,None,0.0
+" Okay, voting and another dam site.",0:04:19 - 0:04:26,Unknown,202.69258012972736,POSITIVE,0.909090909090906,None,0.0
+ That places are there in why not so you don't worry about this.,0:04:26 - 0:04:30,Speaker SPEAKER_00,216.66919957474346,POSITIVE,3.25,None,0.0
+ We will take care of.,0:04:30 - 0:04:32,Speaker SPEAKER_00,190.90075157556547,POSITIVE,2.5,None,0.0
+" Yeah, sure, sure, then how about the food sandal?",0:04:32 - 0:04:37,Unknown,232.46796541247932,NEGATIVE,1.8595041322314145,None,0.0
+ The food is in carlo style only.,0:04:37 - 0:04:44,Speaker SPEAKER_00,238.24618998885592,POSITIVE,1.0,None,0.0
+ They will give a put to some contact ally like that they will give.,0:04:44 - 0:04:53,Speaker SPEAKER_00,216.0309224034055,POSITIVE,1.5555555555555556,None,0.0
+ That is also provided by.,0:04:53 - 0:04:57,Speaker SPEAKER_01,260.79812895834436,POSITIVE,1.25,None,0.0
+ Or I can't able to hear.,0:04:57 - 0:05:02,Speaker SPEAKER_01,217.0236895728038,NEGATIVE,1.2,None,0.0
+ Our cells. Hello.,0:05:02 - 0:05:05,Unknown,200.88729469828536,POSITIVE,0.9375000000000033,None,0.0
+ Food so divided by your site or we have to take care of it.,0:05:05 - 0:05:11,Unknown,234.13472024709284,NEGATIVE,2.413793103448271,None,0.0
+" No, no, no, no, no.",0:05:11 - 0:05:13,Speaker SPEAKER_01,243.68112698441084,NEGATIVE,2.5,None,0.0
+ Put also come with that packages only.,0:05:13 - 0:05:17,Speaker SPEAKER_00,244.80593395355868,NEGATIVE,1.75,None,0.0
+ You will pay you will pay first to the packages fully.,0:05:17 - 0:05:21,Speaker SPEAKER_00,248.81162700750536,POSITIVE,2.75,None,0.0
+ If the package is 2000 means that your accommodation and food is including only.,0:05:21 - 0:05:28,Speaker SPEAKER_00,232.38273348147632,NEGATIVE,2.0,None,0.0
+ So you don't know how much is the pack.,0:05:28 - 0:05:35,Speaker SPEAKER_00,245.57935936394773,NEGATIVE,1.2857142857142858,None,0.0
+" Two days package means 15,000.",0:05:35 - 0:05:39,Speaker SPEAKER_00,250.79126369776156,POSITIVE,1.25,None,0.0
+" Four days package is means it will be 25,000 nearly.",0:05:39 - 0:05:44,Speaker SPEAKER_00,220.64627280520443,POSITIVE,2.0,None,0.0
+" Okay, okay, okay.",0:05:44 - 0:05:45,Speaker SPEAKER_00,213.76648614265403,POSITIVE,3.0,None,0.0
+ Then how it I have to book it.,0:05:45 - 0:05:49,Speaker SPEAKER_00,229.69510631494313,NEGATIVE,2.0,None,0.0
+ You go to our website map.,0:05:49 - 0:05:52,Unknown,247.2946386962905,NEGATIVE,2.0,None,0.0
+ It's a holiday website and choose your package and what are the things you have.,0:05:52 - 0:05:58,Speaker SPEAKER_00,223.41706884496733,POSITIVE,2.5,None,0.0
+ You need means you choose that package is under.,0:05:58 - 0:06:02,Speaker SPEAKER_00,223.2492598165583,NEGATIVE,2.25,None,0.0
+ Select whatever you want.,0:06:02 - 0:06:06,Speaker SPEAKER_00,219.3185112005317,POSITIVE,1.0,None,0.0
+" Okay, then in accommodation and all we can choose by ourselves by seeing the hotels will you will that you will you have to give it in photos for choosing the hotels are random.",0:06:06 - 0:06:17,Speaker SPEAKER_00,228.5474245594638,NEGATIVE,3.090909090909091,None,0.0
+" Okay, I am going to use it.",0:06:17 - 0:06:20,Speaker SPEAKER_00,223.20598748948154,POSITIVE,2.3333333333333335,None,0.0
+ You can use it.,0:06:20 - 0:06:23,Speaker SPEAKER_00,229.6680573940035,POSITIVE,1.3333333333333333,None,0.0
+" No, no, no, no, no, no, no, no, no.",0:06:23 - 0:06:27,Speaker SPEAKER_00,241.69784411513973,NEGATIVE,2.25,None,0.0
+" In that website, we upload more accommodation photos more hotels more results images are there.",0:06:27 - 0:06:30,Speaker SPEAKER_00,266.4328458891808,NEGATIVE,5.0,None,0.0
+ You have you have to choose and in.,0:06:30 - 0:06:33,Speaker SPEAKER_00,226.56937903700674,POSITIVE,2.6666666666666665,None,0.0
+ Down the.,0:06:33 - 0:06:35,Speaker SPEAKER_00,238.78309716087284,NEGATIVE,1.0,None,0.0
+ The package is.,0:06:35 - 0:06:36,Speaker SPEAKER_00,192.69573203677152,POSITIVE,3.0,None,0.0
+ Hotel hotel rents is.,0:06:36 - 0:06:40,Unknown,211.1627361835128,POSITIVE,1.0,None,0.0
+ There in that image only.,0:06:40 - 0:06:43,Speaker SPEAKER_00,217.64404594348846,NEGATIVE,1.6666666666666667,None,0.0
+ I want to ask you.,0:06:43 - 0:06:45,Speaker SPEAKER_00,207.4618375794166,POSITIVE,2.5,None,0.0
+" If I'm coming with my husband alone that is two people means you are saying 25,000.",0:06:45 - 0:06:50,Speaker SPEAKER_00,220.3393413052078,NEGATIVE,3.2,None,0.0
+ If I am getting my kids also two more means how the package is the same or it will increase.,0:06:50 - 0:06:59,Speaker SPEAKER_00,221.35549223781715,NEGATIVE,2.2222222222222223,None,0.0
+" It little bit increased just 30,000 around four numbers means 30 are on the.",0:06:59 - 0:07:05,Speaker SPEAKER_00,227.7814269128641,NEGATIVE,2.3333333333333335,None,0.0
+" Okay, okay, man.",0:07:05 - 0:07:07,Unknown,210.28848114848893,POSITIVE,1.5,None,0.0
+ Before how many days I have to book in your website.,0:07:07 - 0:07:13,Speaker SPEAKER_00,236.29141252044224,NEGATIVE,1.8333333333333333,None,0.0
+ How many before how many days of this trip I have to book in your website.,0:07:13 - 0:07:20,Speaker SPEAKER_00,235.99119063861284,NEGATIVE,2.2857142857142856,None,0.0
+" For example, if I am going by next week means I can book one day before the trip or I have to book one week.",0:07:20 - 0:07:28,Speaker SPEAKER_00,228.21694900679555,NEGATIVE,3.125,None,0.0
+" No, no, no, no, no, you have to book at least 10 days before.",0:07:28 - 0:07:32,Unknown,229.31195416336357,NEGATIVE,3.5,None,0.0
+" Okay, if I am canceling in any case will the amount be refunded completely or partially.",0:07:32 - 0:07:38,Speaker SPEAKER_00,238.2630311680858,NEGATIVE,2.6666666666666665,None,0.0
+" No, no, no, no, not completely.",0:07:38 - 0:07:41,Speaker SPEAKER_00,230.64281657562356,NEGATIVE,2.0,None,0.0
+ Or five percent each we will take that amount if you.,0:07:41 - 0:07:46,Speaker SPEAKER_00,209.16100453509122,POSITIVE,2.2,None,0.0
+ Cancel the trip.,0:07:46 - 0:07:48,Speaker SPEAKER_00,230.56558999411885,NEGATIVE,1.5,None,0.0
+" Okay, if I'm changing the date means.",0:07:48 - 0:07:51,Speaker SPEAKER_00,252.7127537099514,NEGATIVE,2.3333333333333335,None,0.0
+" Yeah, changing the date means it's not a problem.",0:07:51 - 0:07:54,Speaker SPEAKER_00,244.5284184323755,POSITIVE,3.0,None,0.0
+ I'm not we are not canceling.,0:07:54 - 0:07:56,Speaker SPEAKER_00,191.05642589772486,POSITIVE,3.0,None,0.0
+ We are not charging on.,0:07:56 - 0:07:58,Speaker SPEAKER_00,179.5513362055664,POSITIVE,2.5,None,0.0
+" Okay, okay, man.",0:07:58 - 0:08:00,Speaker SPEAKER_00,204.85268888767297,POSITIVE,1.5,None,0.0
+ And also will you arrange the cap for me to get out from my home.,0:08:00 - 0:08:06,Speaker SPEAKER_00,229.1908804570719,NEGATIVE,2.5,None,0.0
+ To the flight dot train.,0:08:06 - 0:08:09,Unknown,194.51175655281406,NEGATIVE,1.6666666666666667,None,0.0
+" No, no, no, no, no, no, no, no, no, okay.",0:08:09 - 0:08:13,Speaker SPEAKER_00,192.4638688800925,NEGATIVE,2.5,None,0.0
+ And also from I'm from outside from here to Kerala also you will book.,0:08:13 - 0:08:20,Unknown,236.2689523988777,POSITIVE,2.0,None,0.0
+ Local Trip only you won't book right.,0:08:20 - 0:08:23,Speaker SPEAKER_00,237.05690741131954,NEGATIVE,2.3333333333333335,None,0.0
+" Yes, ma'am.",0:08:23 - 0:08:24,Unknown,180.85044522521866,POSITIVE,2.0,None,0.0
+" Okay, okay, I got your point, ma'am.",0:08:24 - 0:08:27,Speaker SPEAKER_00,185.3310207418364,POSITIVE,2.3333333333333335,None,0.0
+ And after finishing the trip.,0:08:27 - 0:08:30,Speaker SPEAKER_00,232.4163768784737,POSITIVE,1.6666666666666667,None,0.0
+ The same procedure you will drop.,0:08:30 - 0:08:33,Unknown,233.38803585346238,NEGATIVE,2.0,None,0.0
+" Yes, but.",0:08:33 - 0:08:35,Speaker SPEAKER_00,197.26145674042596,POSITIVE,1.0,None,0.0
+" Okay, I yes, ma'am.",0:08:35 - 0:08:37,Speaker SPEAKER_00,195.2209964114309,POSITIVE,2.0,None,0.0
+" Okay, ma'am.",0:08:37 - 0:08:38,Speaker SPEAKER_00,183.82535761116608,POSITIVE,2.0,None,0.0
+" Thank you, ma'am.",0:08:38 - 0:08:39,Speaker SPEAKER_00,199.1351489882411,POSITIVE,3.0,None,0.0
+ I will ask me husband and I will update you.,0:08:39 - 0:08:41,Speaker SPEAKER_00,192.98404741915994,POSITIVE,5.0,None,0.0
+" By tomorrow or day after tomorrow, ma'am.",0:08:41 - 0:08:46,Unknown,202.2555991675632,POSITIVE,1.4,None,0.0
+" Okay, ma'am.",0:08:46 - 0:08:47,Unknown,186.44837362054156,POSITIVE,2.0,None,0.0
+ Thank you.,0:08:47 - 0:08:49,Speaker SPEAKER_01,177.69939100568538,POSITIVE,1.0,None,0.0
+ Thank you.,0:08:49 - 0:08:50,Unknown,191.9039903569632,POSITIVE,2.0,None,0.0

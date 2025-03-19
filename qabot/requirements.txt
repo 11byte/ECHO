@@ -1,0 +1,14 @@
+ffmpeg-python==0.2.0
+gradio==5.20.1
+gradio_client==1.7.2
+httpx>=0.24.1
+numpy==1.24.3
+numpydoc
+pandas
+parselmouth
+pyannote.audio==3.3.2
+torch-audiomentations==0.12.0
+torch_pitch_shift==1.2.5
+torchmetrics==1.6.2
+transformers==4.49.0
+whisper==1.1.10
